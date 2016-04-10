@@ -1,0 +1,19 @@
+New log file opened at Sat Feb 06 01:24:55 EST 2016 by 4308@MacBook-Air-de-Guilherme.local
+Taking next connection to: 51999
+New client attempting to connect on port: 52000-51999
+  Address = /192.168.1.105:51999
+This client on port 52000 has uuid afbb7aa6-c512-413c-9d82-23a8b9b589df configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-afbb7aa6-c512-413c-9d82-23a8b9b589df
+Taking next connection to: 51999
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51999
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51999
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 4308@MacBook-Air-de-Guilherme.local logs at Sat Feb 06 01:33:56 EST 2016, goodbye.
